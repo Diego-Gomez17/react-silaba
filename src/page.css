@@ -1,0 +1,105 @@
+
+.titulo-img {
+    margin-top: -100px;
+    width: 60%;
+    height: 40%;
+}
+.estrella{
+    position: absolute;
+    
+}
+
+.estrella1{
+    right: 25%;
+    top: 5%;
+    width: 5%;
+    height: 10%;
+    transform: rotate(-15deg);
+}
+.estrella2{
+    width: 8%;
+    height: 10%;
+    right: 75%;
+    top: 5%;
+    transform: rotate(-15deg);
+}
+.estrella3{
+    width: 8%;
+    height: 10%;
+    right: 45%;
+    top: 85%;
+    transform: rotate(1deg);
+}
+.estrella4{
+    width: 8%;
+    height: 10%;
+    right: 18%;
+    top: 55%;
+    transform: rotate(20deg);
+}
+.estrella5{
+    width: 8%;
+    height: 15%;
+    right: 78%;
+    top: 49%;
+    transform: rotate(-10deg);
+}
+
+
+
+
+.epi{
+    font-size: 24px;
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    text-shadow: 2px 1px 5px #333;
+    z-index: 1;
+}
+.p1{
+    margin-top: 60px;
+    padding-right: 400px;
+}
+.p2{
+    margin-top: 60px;
+    margin-right: -400px;
+    margin-bottom: 10px;
+}
+.p3{
+    margin-left: -40px;
+    margin-top: 60px;
+}
+
+
+.reverso1{
+    width: 15%;
+    height: 45%;
+    position: absolute;
+    top: 3%;
+    left:15%;
+    transform: rotate(15deg);
+    z-index: 0;
+}
+.reverso2{
+    width: 15%;
+    height: 45%;
+    position: absolute;
+    top: 55%;
+    right:15%;
+    transform: rotate(-15deg);
+    z-index: 0;
+}
+h2{
+    font-size: 40px;
+    z-index: 1;
+    text-shadow: 2px 1px 5px #333;
+}
+.regla-text{
+    color: white;
+    font-size: 24px;
+    z-index: 1;
+    text-shadow: 2px 1px 5px #333;
+}
+.pnt{
+    color: rgb(242, 13, 13) ;
+}
