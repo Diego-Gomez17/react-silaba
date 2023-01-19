@@ -41,9 +41,13 @@ const slides = [
                     <img src={reverso} className="reverso1"></img>
                     <img src={reverso} className="reverso2"></img>
                     <p className="regla-text">
-                        Es un muy entretenido juego donde toda la Familia puede participar, sobre todos los mas jovenes, solo debes crear palabras usando las silabas que hay en cada carta. Cada carta tiene un valor que se puede observar con la cantidad de estrellas  que esta posee, solo debes unirla con otra carta y formar una palabra,
-                        entre mas larga la palabra y mas estrella posea <span className="pnt">¡¡Mas Puntos Ganas!!</span>
-                    </p>
+                        Es un muy entretenido juego donde toda la Familia puede participar, sobre todos los mas jovenes!!</p>
+                    <p className="regla-text" >solo debes crear palabras usando las silabas que hay en cada carta. </p>
+                    <p className="regla-text" >Cada carta tiene un valor que se puede observar con la cantidad de estrellas  que esta posee</p> 
+                    <p className="regla-text" >solo debes unirla con otra carta y formar una palabra</p>
+                    <p className="regla-text" > entre mas larga la palabra y mas estrella posea</p>
+                    <h3 className="pnt regla-text">¡¡Mas Puntos Ganas!!</h3>
+                    
                 </div>
             </>
         ),
